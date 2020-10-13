@@ -1,0 +1,9 @@
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\bin\Debug\Prototype.exe
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\obj\x86\Debug\Prototype.csproj.GenerateResource.Cache
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\bin\Debug\MySql.Data.dll
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Agron Family\Desktop\Project\Attendance Monitoring\Prototype\obj\x86\Debug\Prototype.frmPrototype.resources
