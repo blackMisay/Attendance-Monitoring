@@ -23,7 +23,6 @@ namespace Prototype
             GetSearchList();
         }
 
-
         private void GetAttendanceList()
         {
             try
@@ -56,8 +55,6 @@ namespace Prototype
             }
         }
 
-        Attendance Attendance = new Attendance();
-
         private void btnImport_Click(object sender, EventArgs e)
         {
             Import();
@@ -73,11 +70,13 @@ namespace Prototype
 
                 if (MessageBox.Show("Are you sure that you wanted to import the selected file? \n \n" + ofdImport.FileName, "Confirm to import", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
-
+                    dgvAttendance.DataSource =  Read.GetAttendanceRecord(ofdImport.FileName);
                 }
-
             }
         }
+
+        AttendanceController Attendance = new AttendanceController();
+        ExcelReader Read = new ExcelReader();
 
     }
 }
